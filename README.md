@@ -1,7 +1,7 @@
 # Hackthon for Classifying Cellular Proteins
 
-- Feature Extraction Codes
-- Decision Trees Classification
+- Feature Extraction [Codes](https://github.com/NOngeso/Python-and-Other-Scripts/blob/main/machine_learning_scripts/extract606.sh)
+- Decision Trees Classification [Jupyther Notebook]()
 - Random Forest
 - Neural Networks
 
