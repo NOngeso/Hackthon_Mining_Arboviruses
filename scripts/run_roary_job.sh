@@ -10,5 +10,5 @@
 
 echo "Submitting Slurm job"
 conda activate pangenomics
-roary -e --mafft -p 32 -f /home/kinyugo/pangenomics/output/roary /home/kinyugo/pangenomics/output/prokka/*/*.gff
+roary -e --mafft -p 32 -f /home/nehe/pangenomics/output/roary /home/nehe/pangenomics/output/prokka/*/*.gff
 
